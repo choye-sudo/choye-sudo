@@ -21,11 +21,14 @@
 
 **Statistics**
 
-<a href="https://github-readme-stats.vercel.app/api?username=choye-sudo&show_icons=true&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=choye-sudo&show_icons=true&theme=dark" style="height: 175px;"/>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=choye-sudo&layout=donut&show_icons=true&theme=tokyonight&hide_border=true&bg_color=20232a&icon_color=D485FF&text_color=fff&title_color=8387FF" width=38% />
+</a>    
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=choye-sudo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=20232a&icon_color=D485FF&text_color=fff&title_color=8387FF&count_private=true" width=56% />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=choye-sudo&layout=compact&theme=dark">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=choye-sudo&layout=compact&theme=dark" style="height: 175px;"/>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=choye-sudo&theme=react-dark&bg_color=20232a&hide_border=true&line=8387FF&color=8387FF" width=94%/>
 </a>
 
 
